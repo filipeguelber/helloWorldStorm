@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.mycompany.helloworldstorm;
+package br.com.quickmobile.helloworldstorm;
 
 import backtype.storm.Config;
 import backtype.storm.LocalCluster;
@@ -29,7 +29,7 @@ import backtype.storm.topology.base.BaseBasicBolt;
 import backtype.storm.tuple.Fields;
 import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
-import com.mycompany.helloworldstorm.spout.RandomSentenceSpout;
+import br.com.mycompany.helloworldstorm.spout.RandomSentenceSpout;
 
 import java.util.HashMap;
 import java.util.Map;

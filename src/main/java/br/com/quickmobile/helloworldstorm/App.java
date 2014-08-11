@@ -1,4 +1,4 @@
-package com.mycompany.helloworldstorm;
+package br.com.quickmobile.helloworldstorm;
 
 /**
  * Hello world!
