@@ -1,4 +1,4 @@
-package br.com.mycompany.helloworldstorm.spout;
+package br.com.quickmobile.helloworldstorm.spout;
 
 /**
  * Licensed to the Apache Software Foundation (ASF) under one

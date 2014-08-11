@@ -29,7 +29,7 @@ import backtype.storm.tuple.Fields;
 import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
 import backtype.storm.utils.Utils;
-import br.com.mycompany.helloworldstorm.spout.SpoutAleatorio;
+import br.com.quickmobile.helloworldstorm.spout.SpoutAleatorio;
 
 import java.util.Map;
 

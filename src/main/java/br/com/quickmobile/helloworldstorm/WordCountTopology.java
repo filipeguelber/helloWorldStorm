@@ -29,7 +29,7 @@ import backtype.storm.topology.base.BaseBasicBolt;
 import backtype.storm.tuple.Fields;
 import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
-import br.com.mycompany.helloworldstorm.spout.RandomSentenceSpout;
+import br.com.quickmobile.helloworldstorm.spout.RandomSentenceSpout;
 
 import java.util.HashMap;
 import java.util.Map;
